@@ -40,7 +40,7 @@ class El_Str{
 		'(Ε[Υ|Ύ])',
 		'(Η[Υ|Ύ])'
 		) ;
-	protected $lat_spec_difthongs = array('af','ef','if','av','ev','iv') ;
+	protected $lat_spec_difthongs = array('af','ef','if','av','ev','iv', 'Af','Ef','If','Av','Ev','Iv', 'AF','EF','IF','AV','EV','IV') ;
 	
 	//μπ difthong case, inner word 'μπ' converted to 'mp', 'μπ' at word boundaries with 'b'
 	protected $el_mp_difthong =  array('\\Bμπ\\B','μπ' ) ;
