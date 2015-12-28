@@ -21,14 +21,10 @@ Functions
 
 ---
 
----
-
 ### `<string> strtolower_no_accent($str)`
 * Convert unicode string to lower case, without accent marks for the greek letters
 * `$str` string to lower case convert
 * Returns converted string
-
----
 
 ---
 
